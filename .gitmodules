@@ -4,12 +4,12 @@
 	branch = prop
 [submodule "shared/easywsclient"]
 	path = deps/release/easywsclient
-	url = https://github.com/advancedfx/easywsclient.git
-	branch = upstream
+	url = https://github.com/dhbaird/easywsclient.git
+	branch = master
 [submodule "shared/Detours"]
 	path = deps/release/Detours
-	url = https://github.com/advancedfx/Detours
-	branch = upstream
+	url = https://github.com/microsoft/Detours.git
+	branch = main
 [submodule "shared/halflife"]
 	path = deps/release/halflife
 	url = https://github.com/advancedfx/halflife.git
